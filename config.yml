@@ -1,0 +1,4 @@
+image:
+  repository: timescaledev/timescaledb-ha
+  tag: pg15-multi-all-arm64
+  pullPolicy: Always
